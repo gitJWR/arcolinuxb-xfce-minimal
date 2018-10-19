@@ -1,4 +1,4 @@
-# ArcoLinux BYOI Xfce desktop
+# ArcoLinux BYOI Xfce Minimal desktop
 
 # Get your code to build your own iso
 
